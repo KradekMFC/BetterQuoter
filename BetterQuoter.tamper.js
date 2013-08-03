@@ -1,4 +1,4 @@
-?// ==UserScript==
+// ==UserScript==
 // @name AmberCutieForums Better Quoter
 // @version  0.1.7
 // @description	Removes nested quotes when quoting a post and hides nested quotes when viewing a topic.
